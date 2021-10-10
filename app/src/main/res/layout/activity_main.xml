@@ -31,16 +31,9 @@
             android:layout_height="match_parent"
             app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-            <androidx.fragment.app.FragmentContainerView
-                android:name="androidx.navigation.fragment.NavHostFragment"
-                android:id="@+id/nav_host_fragment"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                app:defaultNavHost="true"
-                app:navGraph="@navigation/main_graph" />
 
             <androidx.fragment.app.FragmentContainerView
-                android:id="@+id/nav_bottom_fragment"
+                android:id="@+id/nav_host_fragment"
                 android:name="androidx.navigation.fragment.NavHostFragment"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -48,13 +41,6 @@
                 app:navGraph="@navigation/main_graph"
                 tools:layout_editor_absoluteX="0dp"
                 tools:layout_editor_absoluteY="-58dp" />
-            <androidx.fragment.app.FragmentContainerView
-                android:name="androidx.navigation.fragment.NavHostFragment"
-                android:id="@+id/nav_options_fragment"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                app:defaultNavHost="true"
-                app:navGraph="@navigation/main_graph" />
             <com.google.android.material.bottomnavigation.BottomNavigationView
                 android:id="@+id/bottom_nav_view"
                 android:layout_width="0dp"

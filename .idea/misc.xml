@@ -3,15 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/activity_main.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/bottom_activity.xml" value="0.17806484295845998" />
         <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/drawer_header.xml" value="0.9142857142857143" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_bottom1.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_bottom2.xml" value="0.1" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_bottom3.xml" value="0.1" />
         <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_drawer1.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_drawer2.xml" value="0.1" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_drawer3.xml" value="0.1" />
         <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_main1.xml" value="0.11594202898550725" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_options1.xml" value="0.1" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_options2.xml" value="0.1" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_options3.xml" value="0.1" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_tabbed1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_tabbed1_a.xml" value="0.1" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_tabbed1_b.xml" value="0.1" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/layout/fragment_tabbed1_c.xml" value="0.1" />
         <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/menu/bottom_menu.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/menu/drawer_menu.xml" value="0.23703703703703705" />
         <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/menu/options.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jbm19/AndroidStudioProjects/PracticaNavigation/app/src/main/res/menu/options_menu.xml" value="0.20572916666666666" />
       </map>
     </option>
   </component>
